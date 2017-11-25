@@ -25,5 +25,6 @@ namespace exmlClass
         {
             Console.WriteLine(string.Format("Цена: {0:C}",price));
         }
+
     }
 }
